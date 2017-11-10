@@ -32,42 +32,44 @@
     [
         "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510346626069,
             "changeTime": 1510346626069,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
         }
     ],
     [
         "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1510346839911,
-            "changeTime": 1510346839911,
+            "modifiedTime": 1510263687543,
+            "changeTime": 1510263687543,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\cyoumans\\SFDX Projects\\geolocation",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\cyoumans\\SFDX Projects\\geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1510343854070,
-            "changeTime": 1510343854070,
+            "modifiedTime": 1510264483323,
+            "changeTime": 1510264483323,
+            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
-            "contentHash": "9ac00caf0d373ab51fe4bcab768d93100c92454f"
+            "isArtifactRoot": false
         }
     ],
     [
@@ -216,131 +218,40 @@
     [
         "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\classes",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\classes",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510346626135,
             "changeTime": 1510346706556,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
         }
     ],
     [
         "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 292,
             "modifiedTime": 1510346781631,
             "changeTime": 1510346781631,
-            "contentHash": "2d2c323b16c37552a45bedc85d0f6d7cdc54f9c7",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "2d2c323b16c37552a45bedc85d0f6d7cdc54f9c7"
         }
     ],
     [
         "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1510346626136,
             "changeTime": 1510346626136,
-            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1510346839927,
-            "changeTime": 1510346875185,
-            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28"
-        }
-    ],
-    [
-        "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 162,
-            "modifiedTime": 1510346905714,
-            "changeTime": 1510346905714,
-            "contentHash": "ae4e592f8fab0e422974eae0b40dc1e1ca0051ac"
-        }
-    ],
-    [
-        "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 246,
-            "modifiedTime": 1510346839916,
-            "changeTime": 1510346839916,
-            "contentHash": "652875ccc6ba6e08028b1aa51773d72e376e436f"
-        }
-    ],
-    [
-        "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 126,
-            "modifiedTime": 1510346957572,
-            "changeTime": 1510346957572,
-            "contentHash": "a4bfe90e60906385ba780acc2562085f705f4352"
-        }
-    ],
-    [
-        "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1510346839924,
-            "changeTime": 1510346839924,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1510346839925,
-            "changeTime": 1510346839925,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\cyoumans\\SFDX Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1510346839928,
-            "changeTime": 1510346839928,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f"
         }
     ]
 ]
