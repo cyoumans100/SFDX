@@ -6,5 +6,6 @@ public with sharing class AccountController {
    WHERE Location__Latitude__s != NULL AND Location__Longitude__s != NULL
    LIMIT 50];
    //test for git push from MS Code
+   //test 2 for git push from MS Code
   }
 }
